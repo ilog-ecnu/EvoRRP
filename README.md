@@ -1,5 +1,5 @@
 ### Title
 Evolutionary Retrosynthetic Route Planning
 
-### ERRP
+### EvoRRP
 Code will be available after reception
