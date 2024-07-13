@@ -2,4 +2,4 @@
 Evolutionary Retrosynthetic Route Planning
 
 ### EvoRRP
-Code will be available after reception
+Code will be available soon
