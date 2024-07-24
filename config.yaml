@@ -1,0 +1,24 @@
+# traget_smi
+DemoA:
+  step_len: 6
+  beam_size: 10
+  target_smi: NC(=O)c1cn(Cc2c(F)cccc2F)nn1
+  building_block_dataset: 'building_block_dataset.txt'
+
+DemoB:
+  step_len: 6
+  beam_size: 10
+  target_smi: CN1CCN(c2ccc(-c3cccc(CN4CCOCC4)c3)cc2NC(=O)c2cnc(O)cc2C(F)(F)F)CC1
+  building_block_dataset: 'building_block_dataset.txt'
+
+DemoC:
+  step_len: 6
+  beam_size: 10
+  target_smi: CC(C)(C)OC(=O)NCCNS(=O)(=O)c1ccc(NC(=S)NC2CCCC2)cc1
+  building_block_dataset: 'building_block_dataset.txt'
+
+DemoD:
+  step_len: 6
+  beam_size: 10
+  target_smi: CC(C)(C)OC(=O)N1CCN(c2cc(NS(=O)(=O)c3ccccc3F)cc3c2OC2(CCC2)CC3)CC1
+  building_block_dataset: 'building_block_dataset.txt'
