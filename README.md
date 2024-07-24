@@ -1,4 +1,5 @@
 ## Evolutionary Retrosynthetic Route Planning
+This paper has been accept by IEEE Computational Intelligence Magazine. To learn more, see the [EvoRRP paper](https://ieeexplore.ieee.org/document/10595522).
 
 ### Quickstart
 ```shell
