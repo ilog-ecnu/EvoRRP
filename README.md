@@ -25,6 +25,11 @@ If you want to save the result locally, execute the following command:
 python problem.py > log/log.out
 ```
 
+### A Minor Correction
+Due to a drawing error, a minor correction is needed in the search route for the product demoD in the route map found in the paper, the correct route of DemoD is shown in the figure below:
+
+![DemoD.png](https://ice.frostsky.com/2024/07/24/d90dcadc3f89129f15e65827cd776cfc.png)
+
 ## Citing EvoRRP
 Please use the following bibtex entry to cite EvoRRP.
 ```
